@@ -1,7 +1,5 @@
-
-vless://38d490cb-16b6-4595-b648-3252d620b6ec@buff.rohidden.com:25631?encryption=none&security=none&type=tcp&headerType=http#US%F0%9F%87%BA%F0%9F%87%B8
-vless://38d490cb-16b6-4595-b648-3252d620b6ec@fine.rohidden.com:22111?encryption=none&security=none&type=tcp&headerType=http#PL%F0%9F%87%B5%F0%9F%87%B1
-vless://38d490cb-16b6-4595-b648-3252d620b6ec@kush.rohidden.com:35110?encryption=none&security=none&type=tcp&headerType=http#FI%F0%9F%87%AB%F0%9F%87%AE
-
-vless://a6c799e0-28c4-4101-85c8-1338b3fd673e@www.ParsPack.com:80?security=none&type=httpupgrade&headerType=&path=%2FFtp.Debian.org%3Fed%3D2048&host=www.speedtest.net.nobarane.ORG.#%E2%98%81%EF%B8%8F~%F0%9F%87%A9%F0%9F%87%AA%20%7C%20Germany%201
-vmess://eyJhZGQiOiAibWtoaC5hYnJhcnZhbi5vcmciLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJ3d3cucGNtYWcuY29tIiwgImlkIjogIjAyOWI0YjJhLWRkMzYtNGU3NC1iNmFmLTY2NzIwMjI3M2NkNyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogODE3MSwgInBzIjogIlx1MjYwMVx1ZmUwZn5cdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgfCBHZXJtYW55IDIiLCAic2N5IjogImF1dG8iLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJodHRwIiwgInYiOiAiMiJ9
+vless://38d490cb-16b6-4595-b648-3252d620b6ec@ecorp.rohidden.com:35110?security=&fp=android&type=tcp&headerType=http&host=&encryption=none#GE%F0%9F%87%A9%F0%9F%87%AA
+vless://38d490cb-16b6-4595-b648-3252d620b6ec@kush.rohidden.com:35110?security=&fp=android&type=tcp&headerType=http&host=&encryption=none#FI%F0%9F%87%AB%F0%9F%87%AE
+vmess://eyJhZGQiOiJta2hoLmFicmFydmFuLm9yZyIsImFpZCI6IjAiLCJob3N0Ijoid3d3LnBjbWFnLmNvbSIsImlkIjoiMDI5YjRiMmEtZGQzNi00ZTc0LWI2YWYtNjY3MjAyMjczY2Q3IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODE3MSIsInBzIjoi4piB77iPfvCfh6nwn4eqIHwgR0UyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+vless://38d490cb-16b6-4595-b648-3252d620b6ec@fine.rohidden.com:22111?security=&fp=android&type=tcp&headerType=http&host=&encryption=none#PL%F0%9F%87%B5%F0%9F%87%B1
+vless://38d490cb-16b6-4595-b648-3252d620b6ec@buff.rohidden.com:25631?security=&fp=android&type=tcp&headerType=http&host=&encryption=none#US%F0%9F%87%BA%F0%9F%87%B8
